@@ -53,7 +53,7 @@
     }
 })();
 */
-const noMessages = [
+const messages = [
     "Tem certeza?",
     "Tem mesmo certeza??",
     "Você está absolutamente certa(o)?",
